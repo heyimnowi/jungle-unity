@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/jungle.unity
+    guid: 140348b975c9946ff87aaf6d7752fa4f
   m_configObjects: {}
